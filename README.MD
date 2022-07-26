@@ -8,15 +8,7 @@ This is a responsive work day scheduler, that you can see all available work day
 
 <p>&nbsp;</p>
 
-## Table of Contents
-
-<p>&nbsp;</p>
-
-- [GitHub Link](#github-repo)
-
-* [Directions](#Directions)
-
-* [Tools](#Tools)
+# [GitHub Pages]()
 
 <p>&nbsp;</p>
 
