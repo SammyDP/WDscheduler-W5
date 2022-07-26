@@ -2,6 +2,7 @@ body {
   font-family: "Open Sans", sans-serif;
   font-size: 16px;
   line-height: 1;
+  background: linear-gradient(rgb(241, 223, 223), rgb(163, 244, 244));
 }
 
 textarea {
@@ -40,6 +41,8 @@ textarea {
   background-color: #ffffff;
   color: #000000;
   border-top: 1px dashed #000000;
+  border-radius: 15px 0 0 15px;
+  font-weight: bolder;
 }
 
 .past {
@@ -65,7 +68,8 @@ textarea {
   color: white;
 }
 
-.saveBtn i:hover {
+.saveBtn:hover {
   font-size: 20px;
+  box-shadow: 0 0.4rem 1.4rem 0 #06aed5;
   transition: all 0.3s ease-in-out;
 }

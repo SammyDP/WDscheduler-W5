@@ -1,12 +1,32 @@
+<p align="center">
+<img src="https://user-images.githubusercontent.com/107449948/180916536-e8f2f22f-ac5f-404c-9880-8200e701af70.png" />
+</p>
+
 # Work Day Scheduler
 
-## This will be a responsive work day scheduler, that you can see all available work day hours. You can input comments and save them. Past, present and future hour blocks are all visable and change colors accordingly.
+This is a responsive work day scheduler, that you can see all available work day hours. You can input comments and save them. Past, present and future hour blocks are all visable and change colors accordingly.
 
 <p>&nbsp;</p>
 
-### Table of Contents
+## Table of Contents
 
-- [Directions](#Directions)
+<p>&nbsp;</p>
+
+- [GitHub Link](#github-repo)
+
+* [Directions](#Directions)
+
+* [Tools](#Tools)
+
+<p>&nbsp;</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/107449948/180923136-1788fd10-f8c9-4cab-8c92-1a255c1a4985.png" />
+</p>
+
+<p>&nbsp;</p>
+
+# [GitHub-Repo](https://github.com/SammyDP/WDscheduler-W5)
 
 <p>&nbsp;</p>
 
